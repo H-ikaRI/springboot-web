@@ -1,0 +1,7 @@
+#阿里云OSS
+aliyun:
+  oss:
+    endpoint: https://oss-cn-beijing.aliyuncs.com
+    accessKeyId: LTAI5tB528wL8Ne9mxPoaXah
+    accessKeySecret: ZxDVHtUUSmYyM5cBPNl4GqZLycFJKs
+    bucketName: myfirstweb-framework01
