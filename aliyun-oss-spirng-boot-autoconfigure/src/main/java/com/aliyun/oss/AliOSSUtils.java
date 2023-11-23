@@ -26,8 +26,6 @@ public class AliOSSUtils {
      * 实现上传图片到OSS
      */
     public String upload(MultipartFile file) throws IOException {
-
-
         // 获取上传的文件的输入流
         InputStream inputStream = file.getInputStream();
 
