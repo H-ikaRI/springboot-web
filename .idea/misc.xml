@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/tlias/pom.xml" />
         <option value="$PROJECT_DIR$/aliyun-oss-spring-boot-starter/pom.xml" />
         <option value="$PROJECT_DIR$/aliyun-oss-spirng-boot-autoconfigure/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-autoconfiguration-test/pom.xml" />
       </list>
     </option>
   </component>
