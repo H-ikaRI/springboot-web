@@ -9,8 +9,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-aop-quickstart" />
         <module name="tlias-web-management" />
+        <module name="aliyun-oss-spring-boot-starter" />
         <module name="springboot-mybatis-crud" />
         <module name="springboot-mybatis-quickstart" />
+        <module name="aliyun-oss-spirng-boot-autoconfigure" />
         <module name="springboot-web-config2" />
       </profile>
     </annotationProcessing>
@@ -18,6 +20,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aliyun-oss-spirng-boot-autoconfigure" options="-parameters" />
+      <module name="aliyun-oss-spring-boot-starter" options="-parameters" />
       <module name="springboot-aop-quickstart" options="-parameters" />
       <module name="springboot-mybatis-crud" options="-parameters" />
       <module name="springboot-mybatis-quickstart" options="-parameters" />

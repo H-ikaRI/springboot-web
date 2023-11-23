@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/springboot-mybatis-crud/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-aop-quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/tlias/pom.xml" />
+        <option value="$PROJECT_DIR$/aliyun-oss-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/aliyun-oss-spirng-boot-autoconfigure/pom.xml" />
       </list>
     </option>
   </component>
